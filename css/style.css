@@ -37,6 +37,11 @@ img {
     margin: 5px;
 }
 
+a {
+    color: teal;
+    text-decoration: none;
+}
+
 hr {
     border: 0;
     border-bottom: dashed 1px;
