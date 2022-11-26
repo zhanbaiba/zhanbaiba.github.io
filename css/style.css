@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #eee;
+}
+
+.container {
+    width: 900px;
+    max-width: 100%;
+    margin: auto;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    color: teal;
+}
+
+h2 {
+    margin: 15px 5px 12px 5px;
+}
+
+.module {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin: 5px;
+}
+
+hr {
+    border: 0;
+    border-bottom: dashed 1px;
+}
